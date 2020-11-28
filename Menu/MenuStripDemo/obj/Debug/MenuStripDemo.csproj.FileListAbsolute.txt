@@ -1,0 +1,10 @@
+C:\Users\Thomas\Downloads\MenuStripDemo\bin\Debug\MenuStripDemo.exe.config
+C:\Users\Thomas\Downloads\MenuStripDemo\bin\Debug\MenuStripDemo.exe
+C:\Users\Thomas\Downloads\MenuStripDemo\bin\Debug\MenuStripDemo.pdb
+C:\Users\Thomas\Downloads\MenuStripDemo\obj\Debug\MenuStripDemo.csprojAssemblyReference.cache
+C:\Users\Thomas\Downloads\MenuStripDemo\obj\Debug\MenuStripDemo.Form1.resources
+C:\Users\Thomas\Downloads\MenuStripDemo\obj\Debug\MenuStripDemo.Properties.Resources.resources
+C:\Users\Thomas\Downloads\MenuStripDemo\obj\Debug\MenuStripDemo.csproj.GenerateResource.cache
+C:\Users\Thomas\Downloads\MenuStripDemo\obj\Debug\MenuStripDemo.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Downloads\MenuStripDemo\obj\Debug\MenuStripDemo.exe
+C:\Users\Thomas\Downloads\MenuStripDemo\obj\Debug\MenuStripDemo.pdb

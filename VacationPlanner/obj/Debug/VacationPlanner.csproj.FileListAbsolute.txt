@@ -1,0 +1,10 @@
+C:\Users\Thomas\source\repos\VacationPlanner\bin\Debug\VacationPlanner.exe.config
+C:\Users\Thomas\source\repos\VacationPlanner\bin\Debug\VacationPlanner.exe
+C:\Users\Thomas\source\repos\VacationPlanner\bin\Debug\VacationPlanner.pdb
+C:\Users\Thomas\source\repos\VacationPlanner\obj\Debug\VacationPlanner.csprojAssemblyReference.cache
+C:\Users\Thomas\source\repos\VacationPlanner\obj\Debug\VacationPlanner.VactionPlanner.resources
+C:\Users\Thomas\source\repos\VacationPlanner\obj\Debug\VacationPlanner.Properties.Resources.resources
+C:\Users\Thomas\source\repos\VacationPlanner\obj\Debug\VacationPlanner.csproj.GenerateResource.cache
+C:\Users\Thomas\source\repos\VacationPlanner\obj\Debug\VacationPlanner.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\source\repos\VacationPlanner\obj\Debug\VacationPlanner.exe
+C:\Users\Thomas\source\repos\VacationPlanner\obj\Debug\VacationPlanner.pdb

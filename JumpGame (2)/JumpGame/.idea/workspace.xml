@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5b33c008-a338-4e32-9329-5af5270d4398" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Sprites">
+      <favorite_root url="file://$PROJECT_DIR$/src" module="SpriteExample" type="directory" klass="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode">
+        <favorite_root url="file://$PROJECT_DIR$/src/Enemy.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/src/Sprite.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/src/KeyCheck.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/src/ExcessCode.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/src/Environment.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+        <favorite_root url="file://$PROJECT_DIR$/src/SpriteTesterApplication.java" type="psiFile" klass="com.intellij.ide.projectView.impl.nodes.PsiFileNode" />
+      </favorite_root>
+    </favorites_list>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UUTD9LpzE5RKrRPunuqThlyGxF" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.14453125" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lloyd\Desktop\SpriteExample\textFiles" />
+      <recent name="C:\Users\lloyd\IdeaProjects\SpriteExample\src" />
+      <recent name="C:\Users\lloyd\IdeaProjects\SpriteExample\Res" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lloyd\Desktop\SpriteExample\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.JumpGame">
+    <configuration name="CollisionDetection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CollisionDetection" />
+      <module name="SpriteExample" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JumpGame" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JumpGame" />
+      <module name="SpriteExample" />
+      <option name="VM_PARAMETERS" value="--module-path ${PATH_TO_FX} --add-modules javafx.controls,javafx.fxml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JumpGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JumpGame" />
+      <module name="SpriteExample" />
+      <option name="VM_PARAMETERS" value="--module-path ${PATH_TO_FX} --add-modules javafx.controls,javafx.fxml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultipleStageDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultipleStageDemo" />
+      <module name="SpriteExample" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="SpriteExample" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.JumpGame" />
+      <item itemvalue="Application.CollisionDetection" />
+      <item itemvalue="Application.MultipleStageDemo" />
+      <item itemvalue="Application.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JumpGame" />
+        <item itemvalue="Application.MultipleStageDemo" />
+        <item itemvalue="Application.CollisionDetection" />
+        <item itemvalue="Application.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="AUTOSCROLL_MODE" value="false" />
+    <option name="AUTOSCROLL_FROM_SOURCE" value="true" />
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR,VISIBILITY_SORTER,SHOW_FIELDS,SHOW_INTERFACES" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b33c008-a338-4e32-9329-5af5270d4398" name="Default Changelist" comment="" />
+      <created>1575410051049</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575410051049</updated>
+      <workItem from="1575410052376" duration="36023000" />
+      <workItem from="1575558239542" duration="21200000" />
+      <workItem from="1576163014177" duration="8901000" />
+      <workItem from="1576184483801" duration="64213000" />
+      <workItem from="1576741901427" duration="306000" />
+      <workItem from="1576757895567" duration="7343000" />
+      <workItem from="1576793644419" duration="966000" />
+      <workItem from="1576811103601" duration="2537000" />
+      <workItem from="1576817268540" duration="52000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
