@@ -1,0 +1,71 @@
+body{
+    font-size: 1em;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+
+}
+.fun:hover{
+    visibility: hidden;
+}
+.fun:hover:after{
+    visibility: visible;
+    content: "Why did you hover over this? ._. ";
+    color: red;
+    text-decoration: underline;
+    text-underline-position: auto;
+    text-decoration-color: indigo;
+    font-size: 3em;
+}
+.space{
+    background: black;
+    color: white;
+    align-content: center;
+}
+.video {
+    position: relative;
+    padding-bottom: 56.00%;
+    padding-top: 30px; 
+    height: 0; 
+    overflow: hidden;
+
+}
+
+.video iframe,.video object,.video embed {
+    position: absolute;
+    top: -5;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+.back{
+    position:absolute;
+    top:0;
+    right:0;
+}
+
+.nav {
+    background-color: #333;
+    overflow: hidden;
+    width: 700;
+    height: 700;
+  }
+
+  .nav a {
+    float: absolute;
+    right:0;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    
+  }
+  .nav a:hover {
+    background-color: #ddd;
+    color: black;
+    -webkit-transition-duration: 1.0s;
+    transition-duration: 1.0s;
+  }
+  .nav a.active {
+    background-color: green;
+    color: white;
+  }

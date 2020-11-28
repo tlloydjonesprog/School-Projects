@@ -1,0 +1,32 @@
+body{
+    font-size: 1em;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+
+}
+.important{
+    font-size: 1.5em;
+    -webkit-transition-duration: 1.0s;
+    transition-duration: 1.0s;
+}   
+.red{
+    color: red;
+    -webkit-transition-duration: 1.0s;
+    transition-duration: 1.0s;
+    
+}
+.pop{
+    display: none;
+    background-color: yellow;
+    font-size: 10em;
+}
+.important:hover .pop{
+    display: inline-block;
+}
+.red:hover{
+    color:green;
+    font-size: 1.5em;
+}
+#titlepage{
+    font-stretch: extra-expanded;
+    font-size: 5em;
+}
